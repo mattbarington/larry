@@ -1,5 +1,7 @@
 # larry
 
+## Because royalty needs frontend access to their hardware security module.
+
 ![Alt Text](https://media.giphy.com/media/2Ylp4JECyTYRi/giphy.gif)
 
 # Table of contents
